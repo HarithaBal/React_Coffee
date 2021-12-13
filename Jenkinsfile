@@ -7,8 +7,9 @@ pipeline {
          stage('Build') {
             steps {
                 nodejs(nodeJSInstallationName: 'Nodejs'){
-                    sh 'npm install'
-		    sh'npm cache clean'
+                  	 sh'npm cache clean'
+			sh 'npm install'
+		 
                 }
            }
         }
