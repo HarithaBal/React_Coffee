@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js" 
+    "start": "nodemon app.js" 
     "sonar-scanner": "node_modules/sonar-scanner/bin/sonar-scanner"
   },
   "author": "Aashish Peepra",
