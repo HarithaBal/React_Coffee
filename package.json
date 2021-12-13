@@ -19,5 +19,5 @@
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
     "pug": "^3.0.0"
-  },
+  }
 }
