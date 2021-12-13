@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js",
-    "sonar-scanner": "node_modules/sonar-scanner/bin/sonar-scanner",  
+    "sonar-scanner": "node_modules/sonar-scanner/bin/sonar-scanner"
   },
   "author": "Aashish Peepra",
   "license": "ISC",
