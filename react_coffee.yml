@@ -25,8 +25,8 @@ apiVersion: v1
 kind: Service
 metadata:
   name: reactapp-service
-spec: ClusterIP
-  type: 
+spec: 
+  type: ClusterIP
   selector:
     app: reactapp
   ports:
