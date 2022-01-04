@@ -1,2 +1,3 @@
-# NodeJs-Coffee-Shop-following--schwarzmuller
-So I was following maximilian schwarzmüller's NodeJS course and decided to put it here for better version controlling.
+# NodeJs-Coffee-Shop-Application
+Its a Nodejs React application with Jenkins and Docker File For CI/CD
+
